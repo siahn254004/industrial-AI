@@ -58,3 +58,7 @@ First Header  | Second Header | Third Header
 Left          | Center        | Right
 
 </br>
+
+$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
+
+
