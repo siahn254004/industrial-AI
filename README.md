@@ -11,7 +11,7 @@
 - 이메일 : [ind-AI](mailto:indai.cbnu.ac.kr)
 - **Github** : [ind-AI](https://github.com/industrial-AI)
 
-## Personal Experiences
+## Educational Course
 
 ### .NET Internal
 
