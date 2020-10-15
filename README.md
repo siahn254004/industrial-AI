@@ -13,7 +13,7 @@
 
 ## Educational Course
 
-![Educational Course](./images/EdCourse.JPG)
+![Educational Course](./images/EdCoourse.JPG)
 
 ### .NET Internal
 
