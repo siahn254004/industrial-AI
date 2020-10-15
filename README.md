@@ -29,14 +29,16 @@
   * Second 
     * Third 
 
-</br>
-
 <pre><code>
  for i in range(1,2):
   print(i)
 </code></pre>
 
-
-
 </br>
+
+{% highlight js %}
+ for i in range(1,2):
+  print(i)
+{% endhighlight %}
+
 ![Forest](./images/iForest.PNG)
