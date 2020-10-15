@@ -31,7 +31,12 @@
 
 </br>
 
+<pre><code>
+ for i in range(1,2):
+  print(i)
+</code></pre>
 
 
 
+</br>
 ![Forest](./images/iForest.PNG)
