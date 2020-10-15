@@ -13,6 +13,8 @@
 
 ## Educational Course
 
+![Educational Course](./images/EdCourse.jpg)
+
 ### .NET Internal
 
 - `2015-07` [Anti-Anti-Reflector](https://github.com/20chan/OldProjects/tree/master/Anti-Anti-.Net%20Reflector): PE 헤더 파일 변조를 통한 .NET 디컴파일 방지/해제
