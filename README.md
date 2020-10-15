@@ -53,3 +53,8 @@ Content Cell  | Content Cell
 
 </br>
 
+First Header  | Second Header | Third Header
+:------------ | :-----------: | -----------:
+Left          | Center        | Right
+
+</br>
