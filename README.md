@@ -28,7 +28,7 @@
 - `2020-10` [산업 빅데이터 분석 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
 - `2020-10` [지능형 IoT 네트워크](https://github.com/Bessesian/industrial-AI/tree/master/projects/지능형-IoT-네트워크): IoT 기술을 이용한 데이터수집 및 IoT 네트워크 최적화 학습
 
-### 인공지능 프로그래밍 과제
+### AI 관련 프로그래밍
 
 - `2020-10` [기계학습](https://github.com/Bessesian/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
 - `2020-10` [네트워크-통신](https://github.com/Bessesian/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
