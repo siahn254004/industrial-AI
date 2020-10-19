@@ -37,7 +37,7 @@
 
 ### GitHub 교육
 
-- `2020-10` [ub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education/포트폴리오자겅및관리_2020_10_15.pptx포트폴리오 관리 자료
+- `2020-10` [ub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education/포트폴리오작성및관리.pptx포트폴리오 관리 자료
 
 ### 재학생 포트폴리오 현황
 
