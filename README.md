@@ -37,12 +37,10 @@
 
 ### GitHub 교육
 
-- `2015-06` [SolarSystemSimulator](https://github.com/20chan/all-my-projects#2015-06-11-solarsystemsimulator): XNA에서 파티클 시스템과 물리엔진을 구현하여 만든 태양계 시뮬레이터
-- `2015-10` [2048](https://github.com/20chan/OldProjects/tree/master/2048): WinForm 기반 2048 게임
+- `2020-10` [ub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education/포트폴리오자겅및관리_2020_10_15.pptx포트폴리오 관리 자료
 
 ### 재학생 포트폴리오 현황
 
-- `2016-12` [ChristmasTree](https://github.com/20chan/ChristmasTree): 눈내리는 크리스마스 트리
-- `2017-06` [img2term](https://github.com/20chan/img2term): 이미지를 ansi code로 변환하여 터미널에서 출력
+- `2020-11` [재학생이름](GitHub link): 재학생 GitHub 포트폴리오 주소
 
 
