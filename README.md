@@ -22,8 +22,11 @@
 
 ### 재학생 수행 프로젝트
 
-- `2020-10` [Apprentice-Project](https://github.com/20chan/OldProjects/tree/master/Anti-Anti-.Net%20Reflector): PE 헤더 파일 변조를 통한 .NET 디컴파일 방지/해제
-- `2015-09` [RoyCompiler](https://github.com/20chan/OldProjects/tree/master/RoyCompiler): C# 내장 컴파일러와 텍스트 에디터를 사용한 가벼운 C# 편집/컴파일 툴
+- `2020-10` [어프렌티스 프로젝트](https://github.com/Bessesian/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
+- `2020-10` [산업 컴퓨터비전 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-컴퓨터비전-실제): OpenCV를 활용한 영상 개선, 영상 분할, 객체 검출/추적 구현 
+- `2020-10` [지능로봇 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/지능로봇-실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
+- `2020-10` [산업 빅데이터 분석 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
+- `2020-10` [지능형 IoT 네트워크](https://github.com/Bessesian/industrial-AI/tree/master/projects/지능형-IoT-네트워크): IoT 기술을 이용한 데이터수집 및 IoT 네트워크 최적화 학습
 
 ### 인공지능 프로그래밍 과제
 
