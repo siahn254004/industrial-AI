@@ -9,7 +9,7 @@
 ## Contacts
 
 - 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **Github** : [ind-AI](https://github.com/industrial-AI)
+- **GitHub** : [ind-AI](https://github.com/industrial-AI)
 
 ## Educational Course
 
