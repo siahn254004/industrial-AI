@@ -30,8 +30,10 @@
 
 ### 인공지능 프로그래밍 과제
 
-- `2015-05` [RAT](https://github.com/20chan/all-my-projects#2015-05-28-rat): 키보드 후킹과 1:N 소켓 통신으로 구현한 키보드 로그 서버/클라이언트 프로그램
-- `2015-10` [CaptIt](https://github.com/20chan/CaptIt): 네이버 소프트웨어에 등록한 단축키와 후처리를 지원하는 캡쳐 프로그램
+- `2020-10` [기계학습](https://github.com/Bessesian/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
+- `2020-10` [네트워크-통신](https://github.com/Bessesian/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
+- `2020-10` [딥러닝](https://github.com/Bessesian/industrial-AI/tree/master/programming/딥러닝): MLP, CNN, RNN 등 딥러닝 활용 프로그래밍
+- `2020-10` [빅데이터분석](https://github.com/Bessesian/industrial-AI/tree/master/programming/빅데이터분석): 빅데이터 분석 알고리즘 구현
 
 ### GitHub 교육
 
