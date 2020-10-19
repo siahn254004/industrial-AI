@@ -9,13 +9,13 @@
 ## Contacts
 
 - 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **GitHub** : [ind-AI](https://github.com/industrial-AI)
+- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
 
 ## Educational Course
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="700" height="360">
+<img src="./images/EdCoourse.JPG"  width="640" height="300">
 
 </p>
 </br>
