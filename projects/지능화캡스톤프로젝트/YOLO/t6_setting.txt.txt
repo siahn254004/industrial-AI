@@ -1,0 +1,4 @@
+# 6조 안성인, 한병엽 학습 모델입니다.
+# 두 학습 모델 모두 yolov5s로 작업한 모델입니다.
+# t6_helmet_640.pt는 img size 640, batch size = 16, epoch = 30으로 만들어졌습니다.
+# t6_mask_640.pt는 img size 640, batch size = 16, epoch = 30으로 만들어졌습니다.
