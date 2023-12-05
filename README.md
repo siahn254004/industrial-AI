@@ -1,46 +1,32 @@
-# **Industrial AI** 
+## AI-Ex 포트폴리오
+작성자 안성인(2022254004)
 
-## Introduction
-
-2020년 8월 설립된 재직자 대상 계약학과입니다.
-
-4차 산업혁명을 주도할 창의적 문제해결 능력을 갖춘 인공지능 관련 전문가를 육성하는 것을 목표로 하고 있습니다.
-
-## Contacts
-
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
-
-## Educational Course
-
-<p align="center">
-  
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
-
-</p>
-</br>
-
-### 재학생 수행 프로젝트
-
-- `2020-10` [어프렌티스 프로젝트](https://github.com/Bessesian/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
-- `2020-10` [산업 컴퓨터비전 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-컴퓨터비전-실제): OpenCV를 활용한 영상 개선, 영상 분할, 객체 검출/추적 구현 
-- `2020-10` [지능로봇 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/지능로봇-실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
-- `2020-10` [산업 빅데이터 분석 실제](https://github.com/Bessesian/industrial-AI/tree/master/projects/산업-빅데이터분석-실제): 파이썬 패키지를 사용한 빅데이터 분석 및 시각화 기술 학습
-- `2020-10` [지능형 IoT 네트워크](https://github.com/Bessesian/industrial-AI/tree/master/projects/지능형-IoT-네트워크): IoT 기술을 이용한 데이터수집 및 IoT 네트워크 최적화 학습
-
-### AI 관련 프로그래밍
-
-- `2020-10` [기계학습](https://github.com/Bessesian/industrial-AI/tree/master/programming/기계학습): PCA, SVM, HMM 등 기계학습 관련 알고리즘 구현
-- `2020-10` [네트워크-통신](https://github.com/Bessesian/industrial-AI/tree/master/programming/네트워크-통신): IoT 관련 네트워크 프로그래밍
-- `2020-10` [딥러닝](https://github.com/Bessesian/industrial-AI/tree/master/programming/딥러닝): MLP, CNN, RNN 등 딥러닝 활용 프로그래밍
-- `2020-10` [빅데이터분석](https://github.com/Bessesian/industrial-AI/tree/master/programming/빅데이터분석): 빅데이터 분석 알고리즘 구현
-
-### GitHub 교육
-
-- `2020-10` [GitHub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
-
-### 재학생 포트폴리오 현황
-
-- `2020-11` [재학생이름](GitHub link): 재학생 GitHub 포트폴리오 주소
-
-
+### Sub Project
+1. 기계학습 : Hermite polynomial
+2. 기계학습 : K-means-algorithm
+3. 기계학습 : 기말프로젝트
+4. 딥러닝실제 : Assignment2
+5. 딥러닝실제 : Assignment9
+6. 산업인공지능개론 : 규칙기반시스템
+7. 산업인공지능개론 : python실습
+8. 산업인공지능개론 : 회귀모델
+9. 어프렌티스프로젝트 : modeling_preprocessing
+10. 어프렌티스프로젝트 : 중간프로젝트
+11. 어프렌티스프로젝트 : 문제의 기술
+12. 어프렌티스프로젝트 : 관련논문요약
+13. 어프렌티스프로젝트 : 논문발표자료
+14. 어프렌티스프로젝트 : 프로젝트계획서
+15. 지능로봇실제 : Assignment1
+16. 지능로봇실제 : Assignment2
+17. 지능로봇실제 : Assignment3
+18. 데이터마이닝 : 중간프로젝트
+19. 데이터마이닝 : 기말프로젝트
+20. 지능화캡스톤프로젝트 : OpenCV
+21. 지능화캡스톤프로젝트 : 중간프로젝트(CNN)
+22. 지능화캡스톤프로젝트 : 평가지표
+23. 지능화캡스톤프로젝트 : 기말프로젝트(YOLO)
+24. 지능화파일럿프로젝트 : 프로젝트수행계획서
+25. 지능화파일럿프로젝트 : 프로젝트계획서
+26. 지능화파일럿프로젝트 : 프로젝트보고서(서론)
+27. 지능화파일럿프로젝트 : 논문 서론 및 이론적 배경
+28. 지능화파일럿프로젝트 : 논문요약
